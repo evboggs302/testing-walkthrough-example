@@ -7,6 +7,7 @@ This repo was designed and created to help provide clarity on how integration an
 - Fork and clone
 - Create a `.env` file to mock the given `.env.example` file
 - Run `npm install`
+- Because of no `App.js` running `npm start` will only produce errors.
 
 ## **Step 1:** Dependencies
 
