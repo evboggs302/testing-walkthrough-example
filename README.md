@@ -69,17 +69,17 @@ npm run test
 
 Click on the following package you'd like to learn more about.
 
-bcrypt
-http-proxy-middleware
-dotenv
-express
-express-session
-jooks
-massive
-sinon
-@testing-library/react
-react-test-renderer
+- [bcrypt](https://www.npmjs.com/package/bcrypt)
+- [http-proxy-middleware](https://facebook.github.io/create-react-app/docs/proxying-api-requests-in-development)
+- [dotenv](https://www.npmjs.com/package/dotenv)
+- [express](https://www.npmjs.com/package/express)
+- [express-session](https://www.npmjs.com/package/express-session)
+- [jooks](https://medium.com/@jantoine/another-take-on-testing-custom-react-hooks-4461458935d4)
+- [massive](https://www.npmjs.com/package/massive)
+- [sinon](https://sinonjs.org/)
+- [@testing-library/react](https://testing-library.com/docs/react-testing-library/intro)
+- [react-test-renderer](https://reactjs.org/docs/test-renderer.html)
 
 ##### _FUTURE ADDITIONS WILL BE MADE TO THIS REPO REGARDING ASYNCHRONOUS HOOKS, AND IN-LINE COMMENTARY EXPLAINING THESE TESTS._
 
-##### This repo created by [Evan Boggs](https://github.com/evboggs302) with assistance from an article by [Antoine Jaussoin.](https://medium.com/@jantoine/another-take-on-testing-custom-react-hooks-4461458935d4)
+##### _\*\*This repo created by [Evan Boggs](https://github.com/evboggs302)._
